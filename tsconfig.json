@@ -1,0 +1,14 @@
+{
+  "include": ["**/*"],
+  "compilerOptions": {
+    "noEmit": true,
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  }
+}
